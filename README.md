@@ -6,9 +6,9 @@ Create a new project using `composer create-project symfony/skeleton`.
 
 And install `composer require symfony/maker-bundle --dev` and `composer require orm` to easily add entity files.
 
-If you want to create a new Model: `bin/console make:entity`
+If you want to create a new Model: `php bin/console make:entity`
 
-If you want to migrate and update the database: `bin/console make:migration`
+If you want to migrate and update the database: `php bin/console make:migration` and `php bin/console doctrine:migrations:migrate`.
 
 Next:
 
