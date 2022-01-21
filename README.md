@@ -4,7 +4,7 @@
 
 Create a new project using `composer create-project symfony/skeleton`.
 
-And install `composer require symfony/maker-bundle --dev` to easily add entity files.
+And install `composer require symfony/maker-bundle --dev` and `composer require orm` to easily add entity files.
 
 Next:
 
