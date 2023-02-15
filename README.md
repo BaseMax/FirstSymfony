@@ -1,5 +1,7 @@
 # First Symfony PHP
 
+First Symfony Project, this repository contains a simple Symfony project that contains all of its **PHP** sources.
+
 ### Start Using
 
 Create a new project using `composer create-project symfony/skeleton`.
